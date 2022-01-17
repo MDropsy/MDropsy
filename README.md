@@ -1,9 +1,7 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Curious mind changing path from 3D animation to AI / Machine learning development.
+Curious mind with a background in 3D animation and learning AI / Machine learning development.
 
-- 🔭 I’m currently working on a real time emotion detector using webcam input
-- 🌱 I’m currently studying Machine Learning and Deep Learning @BeCode.org
 - 🤔 I’m looking for help to combine 3D animation and AI
 - 💬 Ask me about Pyhton and fitness !
 - 📫 How to reach me: maximedropsy@gmail.com
