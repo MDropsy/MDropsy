@@ -11,9 +11,9 @@ Curious mind with a background in 3D animation and learning AI / Machine learnin
 <img align="left" alt="Python 2 & 3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/240px-Python.svg.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/800px-Tensorflow_logo.svg.png"/>
 <img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>
-<img align="left" alt="NumPy" height="26px" src="https://numpy.org/images/logos/numpy.svg" />
-<img align="left" alt="Pandas" height="26px" src="https://github.com/pandas-dev/pandas/blob/master/web/pandas/static/img/pandas_mark.svg" />
-<img align="left" alt="Jupyter Lab" height="26px" src="https://jupyter.org/assets/main-logo.svg" />
+<img align="left" alt="NumPy" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" />
+<img align="left" alt="Pandas" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
+<img align="left" alt="Jupyter Lab" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" />
 
 </br>
 
